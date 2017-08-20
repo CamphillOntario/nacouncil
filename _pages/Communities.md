@@ -4,13 +4,13 @@ permalink: /communities/
 header:
   image: /assets/images/CommunitiesPageBackground.jpg
 ---
-Following is the list of the NAC members in the United States and Canada.  If you wish to apply to one of the communities, please contact each community and fill out the application form.  Most communities encourage contact through their websites. Click on the community for the link. Scroll to the bottom for slide show.  
+Following is the list of the NAC members in the United States and Canada.  If you wish to apply to one of the communities, please contact them directly -- click on the community name for the link.
 
 
 **S​chools**  
 [Camphill Special School (Glenmoore, Pennsylvania)](http://camphillspecialschool.org)  
 [Raphael Academy (New Orleans, Louisiana)\*](http://www.raphaelacademy.org)  
-[Otto Specht School (Spring Valley, New York)\*](http://www.threefold.org/education/Otto_ Specht_School/index.aspx)
+[Otto Specht School (Spring Valley, New York)\*](http://www.threefold.org/education/Otto_Specht_School/index.aspx)
 
 **Youth**  
 [Triform Camphill Community (Hudson, New York)](http://www.triform.org)  
@@ -38,4 +38,4 @@ Following is the list of the NAC members in the United States and Canada.  If y
 [Lokelani 'OHana (Wailuku, Hawaii)](http://lokelaniohana.org)
 
 
-\* Indicates that the community is not a member of the NACouncil but is engaged in similar work..
+\* Indicates the community is not a member of the NACouncil but is engaged in similar work.
