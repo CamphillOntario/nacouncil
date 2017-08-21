@@ -4,4 +4,8 @@ Demo site for nacouncil.org
 
 ## Installation
 
-Clone then bundle exec jekyll build. Deploy files from _site subdirectory.
+Clone the repo, customize \_pages/Contact.md with the email address to use with formspree.io then run:
+
+`bundle exec jekyll build`
+
+Deploy files from the \_site subdirectory.
