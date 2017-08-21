@@ -12,5 +12,4 @@ collections:
       - {label: "Title", name: "title", widget: "string"}
       - {label: "Permalink", name: "permalink", widget: "string"}
       - {label: "Header", name: "header"}
-      - {label: "Hero Image", name: "image", widget: "image"}
       - {label: "Body", name: "body", widget: "markdown"}
