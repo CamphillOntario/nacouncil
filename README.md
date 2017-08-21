@@ -1,10 +1,10 @@
 # nacouncil
-Demo site for nacouncil.org
+Demo site for [nacouncil.org](http://nacouncil.org)
 
 
 ## Installation
 
-Clone the repo, customize \_pages/Contact.md with the email address to use with formspree.io then run:
+Clone the repo, customize \_pages/Contact.md with an email address to use with [formspree.io](http://formspree.io) then run:
 
 `bundle exec jekyll build`
 
