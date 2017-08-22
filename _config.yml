@@ -21,8 +21,8 @@ defaults:
     related: false
 email: 
 description: North American Council for Anthroposophic and Curative Education
-baseurl: ''
-url: ''
+baseurl: 
+url: 
 markdown: kramdown
 theme: minimal-mistakes-jekyll
 plugins: 
