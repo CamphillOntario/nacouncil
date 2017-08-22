@@ -1,9 +1,10 @@
 ---
 title: Become a Volunteer at a NAC Community
-permalink: /volunteer/
+permalink: "/volunteer/"
 header:
-  image: /assets/images/VolunteerPageBackground.jpg
+  image: "/assets/images/VolunteerPageBackground.jpg"
 ---
+
 **Most organizations have openings for short-term volunteers.**  Many people from different countries come to volunteer at the NAC communities. Volunteers often live with people with special needs together with responsible long-term staff, in the same house or in the same community.  Volunteers become part of various activities in the community.  Volunteers may be engaged in activities like farming, gardening, weaving, baking, cooking or assisting people.  Volunteers may also be engaged in cultural activities such as playing music, creating art, taking people for an outing, etc.  What volunteers contribute benefit the people who live there.   Even when life is full, those who become excited about the NAC communities could find the life in the NAC communities very rewarding.
 
 Volunteers are over 18 years old, who finished high school.  Many people come to volunteer in the middle of college years, taking a break from college for a year or so. Many people come after finishing college.  Many come in their mid-20s, or in the 30s.  People come at any age, looking for opportunities to volunteer.  Some come as part of high school practicum, and stay for several weeks.  Everyone’s way to come to the NAC communities is unique and is very individual.  The communities offer training for the volunteers to carry out the tasks responsibly for the duration of stay.  

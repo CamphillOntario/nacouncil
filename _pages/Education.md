@@ -1,29 +1,30 @@
 ---
-feature_rowBD:
-  - alt: ''
-    image_path: /assets/images/gallery/bdfarming/rhubarb.jpg
-  - alt: ''
-    image_path: /assets/images/gallery/bdfarming/kohlrabifield.jpg
-  - alt: ''
-    image_path: /assets/images/gallery/bdfarming/newcalf.jpg
-galleryAcademy:
-  - alt: Painting
-    image_path: /assets/images/gallery/academy/CamphillAcademyPainting.jpg
-    title: ''
-    url: /assets/images/gallery/academy/CamphillAcademyPainting.jpg
-  - alt: Drawing
-    image_path: /assets/images/gallery/academy/CamphillAcademyDrawing.jpg
-    title: ''
-    url: /assets/images/gallery/academy/CamphillAcademyDrawing.jpg
-  - alt: Recorder Music
-    image_path: /assets/images/gallery/academy/CamphillAcademyRecorders.jpg
-    title: ''
-    url: /assets/images/gallery/academy/CamphillAcademyRecorders.jpg
 title: Co-worker Education
-permalink: /education/
+permalink: "/education/"
+feature_rowBD:
+- alt: ''
+  image_path: "/assets/images/gallery/bdfarming/rhubarb.jpg"
+- alt: ''
+  image_path: "/assets/images/gallery/bdfarming/kohlrabifield.jpg"
+- alt: ''
+  image_path: "/assets/images/gallery/bdfarming/newcalf.jpg"
+galleryAcademy:
+- alt: Painting
+  image_path: "/assets/images/gallery/academy/CamphillAcademyPainting.jpg"
+  title: ''
+  url: "/assets/images/gallery/academy/CamphillAcademyPainting.jpg"
+- alt: Drawing
+  image_path: "/assets/images/gallery/academy/CamphillAcademyDrawing.jpg"
+  title: ''
+  url: "/assets/images/gallery/academy/CamphillAcademyDrawing.jpg"
+- alt: Recorder Music
+  image_path: "/assets/images/gallery/academy/CamphillAcademyRecorders.jpg"
+  title: ''
+  url: "/assets/images/gallery/academy/CamphillAcademyRecorders.jpg"
 header:
-  image: /assets/images/EducationPageBackground.jpg
+  image: "/assets/images/EducationPageBackground.jpg"
 ---
+
 ## Camphill Academy
 
 ​Some NAC communities offer opportunities for professional education in anthroposophic curative education and social therapy through the **Camphill Academy**. Detailed information on these programs, their availability, bachelor degree options and the application process can be found on the **Camphill Academy’s website** [(camphill.edu)](http://camphill.edu). You may also contact any NAC member community to inquire about the option of enrolling in a Camphill Academy program as a member of that community.

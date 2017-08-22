@@ -1,9 +1,10 @@
 ---
 title: Contact Us
-permalink: /contact/
+permalink: "/contact/"
 header:
-  image: /assets/images/ContactPageBackground.jpg
+  image: "/assets/images/ContactPageBackground.jpg"
 ---
+
 <form action="https://formspree.io/insertadminemailaddresshere" method="POST">
     <textarea placeholder="Your message" name="message"></textarea>
     <input type="email" placeholder="Your email address" name="email">

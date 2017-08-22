@@ -1,9 +1,10 @@
 ---
 title: Annual Conference
-permalink: /conference/
+permalink: "/conference/"
 header:
-  image: /assets/images/NAConferencePageBackground.jpg
+  image: "/assets/images/NAConferencePageBackground.jpg"
 ---
+
 Each year in spring, the NAC hosts an annual conference.  **The NAC conference** brings together the NAC members from all over the United States and Canada.  The conference is inclusive and open to people of all abilities.  Each year the NAC conference has a theme, and is held at a different community. Past themes of the NAC conference have been as follows; Biography, Eurythmy, Movement, Nutrition, Agriculture, Work, The Importance of Cleaning, and Art.  The NAC conference is a wonderful opportunity to build connections across North America.  It is an opportunity to visit different NAC communities, and meet many people who are involved with curative education, youth guidance and social therapy.
 
 ## Photos from past conferences

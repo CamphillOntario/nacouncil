@@ -1,9 +1,10 @@
 ---
 title: Anthroposophic Curative Education, Youth Guidance, and Social Therapy
-permalink: /about/
+permalink: "/about/"
 header:
-  image: /assets/images/AboutPageBackground.jpg
+  image: "/assets/images/AboutPageBackground.jpg"
 ---
+
 Anthroposophic curative education, youth guidance and social therapy offer education, learning support, training, work, and residential opportunities for children, youth and adults with disabilities.  Anthroposophic curative education, youth guidance and social therapy came into existence out of the spiritual insight by Rudolf Steiner (1861-1925).  
 
 **"Curative Education"** refers to the work with children with special needs.  Kindergarten and school education in conjunction with specific therapies and often medical care provide an overall concept that aims to enhance child development.  The methods used are developed out of Anthroposophy; Waldorf education, therapeutic education, therapies such as therapeutic eurythmy and Anthroposophic medicine.  

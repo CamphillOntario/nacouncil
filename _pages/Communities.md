@@ -1,9 +1,10 @@
 ---
 title: Communities in North America
-permalink: /communities/
+permalink: "/communities/"
 header:
-  image: /assets/images/CommunitiesPageBackground.jpg
+  image: "/assets/images/CommunitiesPageBackground.jpg"
 ---
+
 Following is the list of the NAC members in the United States and Canada.  If you wish to apply to one of the communities, please contact them directly -- click on the community name for the link.
 
 
